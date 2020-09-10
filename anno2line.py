@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 from os import getcwd
 
-sets=['train', 'val', 'test']
+sets=['train', 'test']
 
 classes = ["RBC", "WBC"]
 
